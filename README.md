@@ -39,14 +39,6 @@ The analysis focuses on 8 specific Anatomical Therapeutic Chemical (ATC) classes
     * *Advanced*: Tuning ARIMA parameters (p,d,q) and Prophet hyperparameters.
 5.  **Evaluation**: Comparing actual vs. predicted values using Mean Squared Error (MSE) and Mean Absolute Percentage Error (MAPE).
 
-## 🏁 Getting Started
-
-### Prerequisites
-Ensure you have Python installed. You can install the required dependencies using:
-
-```bash
-pip install pandas numpy matplotlib seaborn statsmodels fbprophet tensorflow
-	
 	
 	
 	
